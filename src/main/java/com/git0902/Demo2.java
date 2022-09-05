@@ -7,4 +7,7 @@ public class Demo2 {
     /****start***/
     private int nage;
     /****end***/
+    private  String pwd;
+    private  String sex;
+
 }
