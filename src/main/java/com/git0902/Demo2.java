@@ -10,4 +10,5 @@ public class Demo2 {
     private  String pwd;
     private  String sex;
 
+    private String tel;
 }
