@@ -4,4 +4,6 @@ public class Demo {
     private  int uid;
     private String uname;
     private String upwd;
+
+    private int uage;
 }
